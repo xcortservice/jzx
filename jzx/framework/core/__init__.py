@@ -7,6 +7,4 @@
 
 
 
-# bot goes here
-# __all__ = [
-#
+from .config import * # noqa
