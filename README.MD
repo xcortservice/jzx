@@ -27,3 +27,12 @@ JZX BOT STACK
 - [`UV`](https://github.com/astral-sh/uv)
 
 ---
+
+# install deps 
+- [docs](https://docs.astral.sh/uv/concepts/projects/dependencies/)
+
+```bash
+
+uv add "git+https://github.com/xcortservice/dpycompv2[speed]" --force-reinstall
+
+```

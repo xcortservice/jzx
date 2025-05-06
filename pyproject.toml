@@ -1,0 +1,13 @@
+[project]
+name = "jzx"
+version = "0.1.0"
+description = "The Last Discord Bot You Need"
+readme = "README.MD"
+requires-python = ">=3.13"
+dependencies = [
+    "discord-py[speed]",
+    "ruff>=0.11.8",
+]
+
+[tool.uv.sources]
+discord-py = { git = "https://github.com/xcortservice/dpycompv2" }
