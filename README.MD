@@ -44,7 +44,16 @@ uv add "git+https://github.com/JeyyGit/jeyyapi.git"
 uv add "git+https://github.com/yt-dlp/yt-dlp" --force-reinstall
 sudo apt install ffmpeg
 
+#install rust and rust deps
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+chmod +x $HOME/.cargo/env
+. "$HOME/.cargo/env"
+cargo install songrec
+cargo install gifski
+
 ```
+
+
 ---
 # music libs that i need to choose from
 - [`Lavalink.py`](https://github.com/devoxin/Lavalink.py) - havent used
