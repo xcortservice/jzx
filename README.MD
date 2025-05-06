@@ -38,7 +38,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 #install from  uv.lock 
 uv sync
 
-# add deps | python/tools   -- not needed , im just documenting what im doing just use uv sync
+# add deps | python/tools   -- uv add is not needed use run uv sync to install from uv.lock
 uv add "git+https://github.com/xcortservice/dpycompv2[speed]" --force-reinstall
 uv add "git+https://github.com/JeyyGit/jeyyapi.git"
 uv add "git+https://github.com/yt-dlp/yt-dlp" --force-reinstall
