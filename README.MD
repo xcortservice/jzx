@@ -8,7 +8,9 @@
 ![Ubuntu    ](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
 ---
+```
 # JZX BOT STACK
+```
 
 - [`RUST`](https://www.rust-lang.org/)
 - [`COCKROACHDB`](https://hub.docker.com/r/cockroachdb/cockroach)
