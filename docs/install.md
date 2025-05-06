@@ -1,10 +1,13 @@
 ---
-# setup
+title: setup
+---
+
+# Setup
 
 1. Run the installation script:
 ```bash
 chmod +x docs/scripts/install.sh
-./docs/install.sh
+./docs/scripts/install.sh
 ```
 
 2. Make the run script executable:
@@ -16,4 +19,3 @@ chmod +x run.sh
 ```bash
 ./run.sh
 ```
----
