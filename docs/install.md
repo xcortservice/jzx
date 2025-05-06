@@ -1,7 +1,3 @@
----
-title: setup
----
-
 # Setup
 
 1. Run the installation script:
