@@ -46,5 +46,5 @@ sudo apt install ffmpeg
 # music libs that i need to choose from
 - [`Lavalink.py`](https://github.com/devoxin/Lavalink.py) - havent used
 - [`Wavelink`](https://github.com/PythonistaGuild/Wavelink) - not maintained anymore
-- [Pomice](https://github.com/cloudwithax/pomice) - i like wavelink better
+- [`Pomice`](https://github.com/cloudwithax/pomice) - i like wavelink better
 ---
