@@ -12,18 +12,18 @@
 ---
 # BOT STACK
 
--- [RUST](https://www.rust-lang.org/)
--- [COCKROACHDB](https://hub.docker.com/r/cockroachdb/cockroach)
--- [MINIO](https://min.io/)
--- [POSTGRESQL](https://www.postgresql.org/)
--- [PYTHON](https://github.com/python/cpython)
--- [WARP](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/)
--- [NGIX](https://nginx.org/en/download.html)
--- [LIBRARY-DPYFORK](https://github.com/xcortservice/dpycompv2)
--- [REDIS](https://github.com/redis/redis)
--- [FLUX](https://github.com/Jacherr/flux)
--- [FASTAPI](https://github.com/fastapi/fastapi)
--- [SCYLLADB](https://github.com/scylladb/scylladb)
--- [UV](https://github.com/astral-sh/uv)
+- [RUST](https://www.rust-lang.org/)
+- [COCKROACHDB](https://hub.docker.com/r/cockroachdb/cockroach)
+- [MINIO](https://min.io/)
+- [POSTGRESQL](https://www.postgresql.org/)
+- [PYTHON](https://github.com/python/cpython)
+- [WARP](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/)
+- [NGIX](https://nginx.org/en/download.html)
+- [LIBRARY-DPYFORK](https://github.com/xcortservice/dpycompv2)
+- [REDIS](https://github.com/redis/redis)
+- [FLUX](https://github.com/Jacherr/flux)
+- [FASTAPI](https://github.com/fastapi/fastapi)
+- [SCYLLADB](https://github.com/scylladb/scylladb)
+- [UV](https://github.com/astral-sh/uv)
 
 ---
