@@ -1,5 +1,3 @@
-# jzx - MODERN PYTHON DISCORD BOT TEMPLATE
-
 ![Python    ](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Discord.py](https://img.shields.io/badge/discord.py-2.x-blueviolet)
 ![PostgreSQL](https://img.shields.io/badge/postgreSQL-%23336791.svg?&logo=postgresql&logoColor=white)
@@ -10,7 +8,7 @@
 ![Ubuntu    ](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
 ---
-# BOT STACK
+# JZX BOT STACK
 
 - [RUST](https://www.rust-lang.org/)
 - [COCKROACHDB](https://hub.docker.com/r/cockroachdb/cockroach)
