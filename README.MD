@@ -9,7 +9,7 @@
 
 ---
 ```
-# JZX BOT STACK
+**JZX BOT STACK**
 ```
 
 - [`RUST`](https://www.rust-lang.org/)
