@@ -32,7 +32,10 @@ JZX BOT STACK
 - [docs](https://docs.astral.sh/uv/concepts/projects/dependencies/)
 
 ```bash
+# install uv
+curl -LsSf https://astral.sh/uv/install.sh | sh
 
+# add deps
 uv add "git+https://github.com/xcortservice/dpycompv2[speed]" --force-reinstall
-
+uv add "git+https://github.com/JeyyGit/jeyyapi.git"
 ```
