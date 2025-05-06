@@ -32,10 +32,13 @@ JZX BOT STACK
 - [docs](https://docs.astral.sh/uv/concepts/projects/dependencies/)
 
 ```bash
-# install uv
+# install uv and all dependencies
 curl -LsSf https://astral.sh/uv/install.sh | sh
 
-# add deps | python/tools
+#install from  uv.lock 
+uv sync
+
+# add deps | python/tools   -- not needed , im just documenting what im doing just use uv sync
 uv add "git+https://github.com/xcortservice/dpycompv2[speed]" --force-reinstall
 uv add "git+https://github.com/JeyyGit/jeyyapi.git"
 uv add "git+https://github.com/yt-dlp/yt-dlp" --force-reinstall
