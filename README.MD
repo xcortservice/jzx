@@ -10,7 +10,7 @@
 ---
 # JZX BOT STACK
 
-- [RUST](https://www.rust-lang.org/)
+- [`RUST`](https://www.rust-lang.org/)
 - [COCKROACHDB](https://hub.docker.com/r/cockroachdb/cockroach)
 - [MINIO](https://min.io/)
 - [POSTGRESQL](https://www.postgresql.org/)
